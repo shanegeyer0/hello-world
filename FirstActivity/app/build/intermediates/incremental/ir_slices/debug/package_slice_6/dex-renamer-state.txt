@@ -1,0 +1,4 @@
+#Mon Mar 11 21:40:25 ACDT 2019
+base.0=E\:\\FirstActivity\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex
